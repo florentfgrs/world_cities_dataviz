@@ -7,6 +7,8 @@ Welcome to this simple project that integrates **Streamlit**, **Polars**, and **
 
 This project loads data from DuckDB, processes it with Polars for optimal performance, and visualizes it using Streamlit. The app provides an intuitive interface where you can select countries and display cities with their populations on an interactive map.
 
+![image](./img/app.png)
+
 ## Prerequisites
 
 Make sure you have Python 3.9 or higher installed on your machine. 

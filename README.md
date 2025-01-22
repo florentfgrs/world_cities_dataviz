@@ -9,6 +9,8 @@ This project loads data from DuckDB, processes it with Polars for optimal perfor
 
 ![image](./img/app.png)
 
+You can view the application on [streamlit app](https://florentfgrs-world-cities-dataviz-app-u8sofi.streamlit.app/).
+
 ## Prerequisites
 
 Make sure you have Python 3.9 or higher installed on your machine. 
